@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn Profile](https://www.linkedin.com/in/sarah-hanley/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume PDF](../liftoff-assignments/sarah_hanley_resume.pdf)
